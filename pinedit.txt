@@ -1,0 +1,20 @@
+/**************************************************************************************************/
+
+
+		    ______       _______      ____                    _     
+		   |   _   \    |   _   \    | __ )    __ _   _ __   | | __  
+		   |  |_)   )   |  | \   |   |  _ \   / _` | | '_ \  | |/ / 
+		   |   ___ /    |  |  |  |   | |_) | | (_| | | | | | |   <
+		   |  |         |  |  |  |   |____/   \__,_| |_| |_| |_|\_\
+		   |  |         |  |_/   |
+		   |__|         |_______/
+
+		Changing pins through ATM machines is not fully supported yet.
+				   
+		To make changes to your pin please visit the nearest PD Bank and
+			ask the teller to make changes to your pin
+
+				 Sorry for the inconvenience,
+			       Thank you for your understanding
+
+				   Press enter to continue

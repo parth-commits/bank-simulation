@@ -1,0 +1,22 @@
+/**************************************************************************************************/
+
+
+		    ______       _______      ____                    _     
+		   |   _   \    |   _   \    | __ )    __ _   _ __   | | __  
+		   |  |_)   )   |  | \   |   |  _ \   / _` | | '_ \  | |/ / 
+		   |   ___ /    |  |  |  |   | |_) | | (_| | | | | | |   <
+		   |  |         |  |  |  |   |____/   \__,_| |_| |_| |_|\_\
+		   |  |         |  |_/   |
+		   |__|         |_______/
+
+		   PD Bank is made and maintained by Parth Patel and Dhyey
+		                           Trivedi
+		   This ATM machine is made on a personal project only and 
+		   MUST require authourized permission for consumer use!
+
+		   Please contact us through email for inquiries and legal
+		                        permission at:
+			     ->parth.patel20@student.tdsb.on.ca
+			     ->dhyey.trivedi@student.tdsb.on.ca
+
+				   Press enter to continue
