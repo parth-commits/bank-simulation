@@ -43,18 +43,28 @@ Structure of program and ideas of some functions and files:
 •	Screen file(s): where the designs for all the possible screens in the application will be located. Here, there will be pre-designed screens which we will read right into our application and display it so we can save time. 
 •	Accounts file: this will be a file which stores all the account ID’s and passwords for use. Once the user enters their account ID and password, the system will look through this file and see if an user with this account ID exists, if it does, then you will be allowed into the system. There will also be account balance information in this file. 
 Accounts file: this will be a text file which will contain user information. Each user’s information will start with a ‘#’ to avoid confusion between 2 users.
+
 Ex.
+
 #A/C num: 432333
+
 Pass: 9976
+
 Main balance: $55,000.32
+
 Chequing balance: $5422.54
+
 #A/C num: 432377
+
 Pass: 3376
+
 Main balance: $32,445.64
+
 Chequing balance: $1234.53
+
 #A/C num: 432366
-………………………………….
-………………………………….
+
+
 And so on…
 
 Screen files: These will contain what to display in the output page. These will be .txt files. They can contain a welcome page, the options page or even the exit page.
